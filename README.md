@@ -1,2 +1,8 @@
-# leson-my-34
-leson my 34
+let test1 = true;
+let test2 = true;
+
+if (test1 === true && test2 === true) {
+	console.log('+++');
+} else {
+	console.log('---');
+}
